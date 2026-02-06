@@ -1,9 +1,14 @@
-function Footer() {
-  return (
-    <footer>
-      <p> Made by</p>
+function Footer(){
+return(
+
+    <footer style={{padding:"14px"}} >
+        <span> Made by</span>
+        <span >Mohamed Lotfy</span>
+      
     </footer>
-  );
+        )
+
+
 }
 
 export default Footer;
