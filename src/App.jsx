@@ -5,7 +5,7 @@ import EditVehicle from "./components/EditVehicle";
 import EditFax from "./components/EditFax";
 import EditEquipment from "./components/EditEquipment";
 import EquipmentsPage from "./pages/EquipmentsPage";
-import NavBar from "./common/navBar";
+import NavBar from "./common/NavBar";
 import VehiclesPage from "./pages/VehiclesPage";
 import FaxesPage from "./pages/FaxesPage";
 import VehicleDetails from "./components/VehicleDetails";
